@@ -14,6 +14,12 @@
 
 Minishell is a program written in C that executes the given commands with the given arguments and flags. This project is part of the 42 programming school's curriculum and aims to be the first aproach to team work, communication and management time are a must. Previous exercise implimented are minitalk and pipex. <a href=https://github.com/LoreGracia/03-Minitalk>Minitalk</a>.
 
+  <p align="left">
+    The following image is a visual respresentation of the working program.
+
+![image](https://github.com/user-attachments/assets/7ba2fee0-22ce-47d9-a555-ce94274de78e)
+
+
  <div align="left">
    
 ## Features
